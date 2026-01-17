@@ -25,6 +25,7 @@ I specialize in developing websites, API systems, SaaS platforms, and more with 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcoders908%2Fcoders908.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcoders908%2Fcoders908?ref=badge_shield)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=coders908&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
@@ -34,3 +35,7 @@ I specialize in developing websites, API systems, SaaS platforms, and more with 
 ---
 [![](https://visitcount.itsvg.in/api?id=coders908&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcoders908%2Fcoders908.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcoders908%2Fcoders908?ref=badge_large)
