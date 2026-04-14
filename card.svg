@@ -21,7 +21,7 @@
   <rect x="0" y="0" width="3" height="200" rx="2" fill="#ffffff" opacity="0.6"/>
 
   <!-- Name -->
-  <text x="32" y="46" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="22" font-weight="700" fill="#ffffff">CODERS</text>
+  <text x="32" y="46" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="22" font-weight="700" fill="#ffffff">Neriya</text>
 
   <!-- Subtitle -->
   <text x="32" y="68" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="11" fill="#555555" letter-spacing="2">SYSTEM ARCHITECT  /  SECURITY-FIRST ENGINEER</text>
