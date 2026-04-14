@@ -15,7 +15,7 @@
 ---
 
 <div align="center">
-  <img src="card.svg" width="720" alt="CODERS profile card"/>
+  <img src="card.svg" width="720" alt="Neriya profile card"/>
 </div>
 
 ---
